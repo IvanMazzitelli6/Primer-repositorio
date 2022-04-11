@@ -1,0 +1,21 @@
+*{
+    padding: 0%;
+    margin: 0%;
+}
+h1{
+    display: flex;
+    justify-content: center;
+}
+.grids{
+    display: grid;
+    
+    justify-items: center;
+   grid-template-columns:  1fr 1fr ;
+
+}
+
+.derechos{
+    margin-top: 300px;
+    display: flex;
+    justify-content: center;
+}
